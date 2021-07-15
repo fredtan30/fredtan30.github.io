@@ -4,7 +4,7 @@
 <html lang="en-us">
 <head>
   <meta charset="UTF-8">
-  <title>FRED PROFILE</title>
+  
 </head>
 
 <body>
